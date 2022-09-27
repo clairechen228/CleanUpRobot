@@ -1,0 +1,6 @@
+<launch>
+  <node name="test_sub" pkg="test_proj" type="test_sub.py" output="screen"/>
+  <node name="coordinates" pkg="test_proj" type="coordinates.py" output="screen"/>
+  <node name="test_camera" pkg="test_proj" type="test_camera.py" output="screen"/>
+  <node name="walk2" pkg="test_proj" type="walk2.py" output="screen"/>
+</launch>
