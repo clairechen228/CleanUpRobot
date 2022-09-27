@@ -7,6 +7,7 @@
 
 
 ## Overview
+<img src="/result/system_workflow.png" width="150">
 
 
 ## Getting Started
