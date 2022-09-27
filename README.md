@@ -7,8 +7,17 @@
 
 
 ## Overview
-<img src="/result/system_workflow.png" width="150">
+<p align="center">
+  <img width=80% src="/results/system_workflow.PNG">
+</p>
 
+## Methods
+### Walking Algorithm
+
+### Object Detection Algorithm
+
+
+## Results
 
 ## Getting Started
 ### map
