@@ -1,5 +1,12 @@
 # CleanUpRobot
-Implemented the robot using Robot Operating System (ROS) in a Gazebo simulated environment.
+- Implemented TurtleBot3 Waffle robot using Robot Operating System (ROS) in a Gazebo simulated environment.
+- Tasks: 
+	- to semi-autonomously navigate the area
+	- to detect and return the trashes' coordinates 
+	- be able to distinguish between waste and recycling.
+
+
+## Overview
 
 
 ## Getting Started
