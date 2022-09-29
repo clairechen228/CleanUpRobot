@@ -12,10 +12,26 @@
 </p>
 
 ## Methods
+### World Map
+- There are 6 objects in TurtleBot3 House, one in each room, and some of them are under the tables. 
+- Ball and cylinder are representative of recycling and waste.
+- Colors are distinct from each other to avoid double-checking.
+
+<img width=80% src="/results/map.jpg">
+
 ### Walking Algorithm
+- Autonomous SLAM: SLAM mapping of an unexplored environment.
+
+- Semi-Auto Walking: To increase the efficiency in this project, the 'Auto Walk' node applies a bug0 algorithm. A total of 11 target coordinates are
+predetermined so that the robot could automatically navigate the house map by checking each target location.
+
+<img width=49% src="/results/slam.png">
+<img width=49% src="/results/route.png">
 
 ### Object Detection Algorithm
+- A basic threshold method was used for object detection.
 
+<img width=80% src="/results/detection.png">
 
 ## Results
 
