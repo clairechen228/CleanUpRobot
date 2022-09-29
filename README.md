@@ -17,7 +17,9 @@
 - Ball and cylinder are representative of recycling and waste.
 - Colors are distinct from each other to avoid double-checking.
 
-<img width=80% src="/results/map.jpg">
+<p align="center">
+   <img width=80% src="/results/map.jpg">
+</p>
 
 ### Walking Algorithm
 - Autonomous SLAM: SLAM mapping of an unexplored environment.
@@ -25,20 +27,22 @@
 - Semi-Auto Walking: To increase the efficiency in this project, the 'Auto Walk' node applies a bug0 algorithm. A total of 11 target coordinates are
 predetermined so that the robot could automatically navigate the house map by checking each target location.
 
-<img width=49% src="/results/slam.png">
-<img width=49% src="/results/route.png">
+<p align="center">
+   <img width=49% src="/results/slam.png">
+   <img width=49% src="/results/route.PNG">
+</p>
 
 ### Object Detection Algorithm
 - A basic threshold method was used for object detection.
 
-<img width=80% src="/results/detection.png">
+<p align="center">
+   <img width=80% src="/results/detection.PNG">
+</p>
 
 ## Results
 
 
-
 https://user-images.githubusercontent.com/23229612/192689469-6b13b8d2-1f23-4229-a4c4-866df8c0a4be.mp4
-
 
 
 ## Getting Started
